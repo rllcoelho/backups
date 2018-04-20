@@ -1,0 +1,8 @@
+1 - Ler o manual do Rsync
+2 - Escrever um bash script para remover os backups mais antigos
+3 - Escrever um bash script para executar o backup
+4 - Adicionar permissões de execução para os 2 scripts
+5 - Copiar os arquivos para dentro de /root/ para que o cron job possa executar
+6 - Adicionar uma entrada no crontab para executar o backup as 21h
+7 - Adicionar uma entrada no crontab para executar a limpeza dos backups antigos as 21h1min
+8 - Testar

@@ -1,0 +1,2 @@
+0 21 * * * /root/backup.sh
+1 21 * * * /root/rm_older_bkps.py
